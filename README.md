@@ -1,5 +1,10 @@
 # LAMP - Fedora
 A script that allows you to run a LAMP on Fedora
+This script will install :
+- Apache
+- PHP with XDebug
+- MariaDB
+- PHPMyAdmin
 
 ## Planning list
 - Add config for PHP XDebug in php.ini
